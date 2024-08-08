@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/BequeenCode/Leetcode-/tree/master/0007-reverse-integer) |
+| [2491-smallest-even-multiple](https://github.com/BequeenCode/Leetcode-/tree/master/2491-smallest-even-multiple) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,4 +24,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/BequeenCode/Leetcode-/tree/master/0014-longest-common-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/BequeenCode/Leetcode-/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
