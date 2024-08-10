@@ -28,4 +28,12 @@
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/BequeenCode/Leetcode-/tree/master/2491-smallest-even-multiple) |
+## Array
+|  |
+| ------- |
+| [0777-toeplitz-matrix](https://github.com/BequeenCode/Leetcode-/tree/master/0777-toeplitz-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0777-toeplitz-matrix](https://github.com/BequeenCode/Leetcode-/tree/master/0777-toeplitz-matrix) |
 <!---LeetCode Topics End-->
