@@ -16,6 +16,7 @@
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/BequeenCode/Leetcode-/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2491-smallest-even-multiple](https://github.com/BequeenCode/Leetcode-/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/BequeenCode/Leetcode-/tree/master/2556-convert-the-temperature) |
+| [2812-find-the-maximum-achievable-number](https://github.com/BequeenCode/Leetcode-/tree/master/2812-find-the-maximum-achievable-number) |
 ## Dynamic Programming
 |  |
 | ------- |
