@@ -12,6 +12,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/BequeenCode/Leetcode-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/BequeenCode/Leetcode-/tree/master/0009-palindrome-number) |
+| [1635-number-of-good-pairs](https://github.com/BequeenCode/Leetcode-/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/BequeenCode/Leetcode-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/BequeenCode/Leetcode-/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2491-smallest-even-multiple](https://github.com/BequeenCode/Leetcode-/tree/master/2491-smallest-even-multiple) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/BequeenCode/Leetcode-/tree/master/0777-toeplitz-matrix) |
+| [1635-number-of-good-pairs](https://github.com/BequeenCode/Leetcode-/tree/master/1635-number-of-good-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -45,4 +47,12 @@
 |  |
 | ------- |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/BequeenCode/Leetcode-/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+## Hash Table
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/BequeenCode/Leetcode-/tree/master/1635-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/BequeenCode/Leetcode-/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
