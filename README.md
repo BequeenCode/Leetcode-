@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/BequeenCode/Leetcode-/tree/master/0777-toeplitz-matrix) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/BequeenCode/Leetcode-/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1635-number-of-good-pairs](https://github.com/BequeenCode/Leetcode-/tree/master/1635-number-of-good-pairs) |
 ## Matrix
 |  |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/BequeenCode/Leetcode-/tree/master/1635-number-of-good-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/BequeenCode/Leetcode-/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 <!---LeetCode Topics End-->
