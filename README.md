@@ -6,6 +6,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/BequeenCode/Leetcode-/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/BequeenCode/Leetcode-/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/BequeenCode/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/BequeenCode/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [1797-goal-parser-interpretation](https://github.com/BequeenCode/Leetcode-/tree/master/1797-goal-parser-interpretation) |
 ## Math
@@ -13,6 +14,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/BequeenCode/Leetcode-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/BequeenCode/Leetcode-/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/BequeenCode/Leetcode-/tree/master/0013-roman-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/BequeenCode/Leetcode-/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/BequeenCode/Leetcode-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/BequeenCode/Leetcode-/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -52,6 +54,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/BequeenCode/Leetcode-/tree/master/0013-roman-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/BequeenCode/Leetcode-/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
