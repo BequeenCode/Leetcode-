@@ -7,6 +7,7 @@
 | [0006-zigzag-conversion](https://github.com/BequeenCode/Leetcode-/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/BequeenCode/Leetcode-/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/BequeenCode/Leetcode-/tree/master/0014-longest-common-prefix) |
+| [1797-goal-parser-interpretation](https://github.com/BequeenCode/Leetcode-/tree/master/1797-goal-parser-interpretation) |
 ## Math
 |  |
 | ------- |
