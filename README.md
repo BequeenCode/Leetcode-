@@ -8,6 +8,7 @@
 | [0010-regular-expression-matching](https://github.com/BequeenCode/Leetcode-/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/BequeenCode/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/BequeenCode/Leetcode-/tree/master/0014-longest-common-prefix) |
+| [0990-verifying-an-alien-dictionary](https://github.com/BequeenCode/Leetcode-/tree/master/0990-verifying-an-alien-dictionary) |
 | [1797-goal-parser-interpretation](https://github.com/BequeenCode/Leetcode-/tree/master/1797-goal-parser-interpretation) |
 ## Math
 |  |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/BequeenCode/Leetcode-/tree/master/0777-toeplitz-matrix) |
+| [0990-verifying-an-alien-dictionary](https://github.com/BequeenCode/Leetcode-/tree/master/0990-verifying-an-alien-dictionary) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/BequeenCode/Leetcode-/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1635-number-of-good-pairs](https://github.com/BequeenCode/Leetcode-/tree/master/1635-number-of-good-pairs) |
 ## Matrix
@@ -55,6 +57,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/BequeenCode/Leetcode-/tree/master/0013-roman-to-integer) |
+| [0990-verifying-an-alien-dictionary](https://github.com/BequeenCode/Leetcode-/tree/master/0990-verifying-an-alien-dictionary) |
 | [1635-number-of-good-pairs](https://github.com/BequeenCode/Leetcode-/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
