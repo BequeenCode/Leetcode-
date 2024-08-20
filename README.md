@@ -17,6 +17,7 @@
 | [0007-reverse-integer](https://github.com/BequeenCode/Leetcode-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/BequeenCode/Leetcode-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/BequeenCode/Leetcode-/tree/master/0013-roman-to-integer) |
+| [1395-minimum-time-visiting-all-points](https://github.com/BequeenCode/Leetcode-/tree/master/1395-minimum-time-visiting-all-points) |
 | [1635-number-of-good-pairs](https://github.com/BequeenCode/Leetcode-/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/BequeenCode/Leetcode-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/BequeenCode/Leetcode-/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/BequeenCode/Leetcode-/tree/master/0777-toeplitz-matrix) |
 | [0990-verifying-an-alien-dictionary](https://github.com/BequeenCode/Leetcode-/tree/master/0990-verifying-an-alien-dictionary) |
+| [1395-minimum-time-visiting-all-points](https://github.com/BequeenCode/Leetcode-/tree/master/1395-minimum-time-visiting-all-points) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/BequeenCode/Leetcode-/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1635-number-of-good-pairs](https://github.com/BequeenCode/Leetcode-/tree/master/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/BequeenCode/Leetcode-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -69,4 +71,8 @@
 |  |
 | ------- |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/BequeenCode/Leetcode-/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/BequeenCode/Leetcode-/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
