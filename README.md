@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/BequeenCode/Leetcode-/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/BequeenCode/Leetcode-/tree/master/0035-search-insert-position) |
 | [0777-toeplitz-matrix](https://github.com/BequeenCode/Leetcode-/tree/master/0777-toeplitz-matrix) |
 | [0990-verifying-an-alien-dictionary](https://github.com/BequeenCode/Leetcode-/tree/master/0990-verifying-an-alien-dictionary) |
 | [1395-minimum-time-visiting-all-points](https://github.com/BequeenCode/Leetcode-/tree/master/1395-minimum-time-visiting-all-points) |
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/BequeenCode/Leetcode-/tree/master/0024-swap-nodes-in-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/BequeenCode/Leetcode-/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
