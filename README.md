@@ -43,6 +43,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/BequeenCode/Leetcode-/tree/master/0015-3sum) |
 | [0777-toeplitz-matrix](https://github.com/BequeenCode/Leetcode-/tree/master/0777-toeplitz-matrix) |
 | [0990-verifying-an-alien-dictionary](https://github.com/BequeenCode/Leetcode-/tree/master/0990-verifying-an-alien-dictionary) |
 | [1395-minimum-time-visiting-all-points](https://github.com/BequeenCode/Leetcode-/tree/master/1395-minimum-time-visiting-all-points) |
@@ -70,9 +71,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/BequeenCode/Leetcode-/tree/master/0015-3sum) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/BequeenCode/Leetcode-/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Geometry
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/BequeenCode/Leetcode-/tree/master/1395-minimum-time-visiting-all-points) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/BequeenCode/Leetcode-/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
