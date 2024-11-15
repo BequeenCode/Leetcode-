@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/BequeenCode/Leetcode-/tree/master/0010-regular-expression-matching) |
+| [0024-swap-nodes-in-pairs](https://github.com/BequeenCode/Leetcode-/tree/master/0024-swap-nodes-in-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -81,4 +82,8 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/BequeenCode/Leetcode-/tree/master/0015-3sum) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/BequeenCode/Leetcode-/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
