@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/BequeenCode/Leetcode-/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/BequeenCode/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/BequeenCode/Leetcode-/tree/master/0035-search-insert-position) |
 | [0777-toeplitz-matrix](https://github.com/BequeenCode/Leetcode-/tree/master/0777-toeplitz-matrix) |
 | [0990-verifying-an-alien-dictionary](https://github.com/BequeenCode/Leetcode-/tree/master/0990-verifying-an-alien-dictionary) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/BequeenCode/Leetcode-/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/BequeenCode/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Linked List
 |  |
 | ------- |
