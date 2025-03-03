@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/BequeenCode/Leetcode-/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/BequeenCode/Leetcode-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BequeenCode/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/BequeenCode/Leetcode-/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/BequeenCode/Leetcode-/tree/master/0035-search-insert-position) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/BequeenCode/Leetcode-/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/BequeenCode/Leetcode-/tree/master/0016-3sum-closest) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/BequeenCode/Leetcode-/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Geometry
 |  |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/BequeenCode/Leetcode-/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/BequeenCode/Leetcode-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BequeenCode/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/BequeenCode/Leetcode-/tree/master/0031-next-permutation) |
 ## Linked List
