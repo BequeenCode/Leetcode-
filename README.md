@@ -8,6 +8,7 @@
 | [0010-regular-expression-matching](https://github.com/BequeenCode/Leetcode-/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/BequeenCode/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/BequeenCode/Leetcode-/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/BequeenCode/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/BequeenCode/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/BequeenCode/Leetcode-/tree/master/0990-verifying-an-alien-dictionary) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/BequeenCode/Leetcode-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -104,4 +105,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/BequeenCode/Leetcode-/tree/master/0022-generate-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/BequeenCode/Leetcode-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
