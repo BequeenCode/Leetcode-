@@ -7,6 +7,7 @@
 | [0006-zigzag-conversion](https://github.com/BequeenCode/Leetcode-/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/BequeenCode/Leetcode-/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/BequeenCode/Leetcode-/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/BequeenCode/Leetcode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/BequeenCode/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/BequeenCode/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BequeenCode/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -20,6 +21,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/BequeenCode/Leetcode-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/BequeenCode/Leetcode-/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/BequeenCode/Leetcode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/BequeenCode/Leetcode-/tree/master/0013-roman-to-integer) |
 | [1395-minimum-time-visiting-all-points](https://github.com/BequeenCode/Leetcode-/tree/master/1395-minimum-time-visiting-all-points) |
 | [1635-number-of-good-pairs](https://github.com/BequeenCode/Leetcode-/tree/master/1635-number-of-good-pairs) |
@@ -71,6 +73,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/BequeenCode/Leetcode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/BequeenCode/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BequeenCode/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0990-verifying-an-alien-dictionary](https://github.com/BequeenCode/Leetcode-/tree/master/0990-verifying-an-alien-dictionary) |
